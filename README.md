@@ -14,3 +14,5 @@ In the future, I'd like to learn more about:
 - audio processing
 - information retrieval (especially relationship extraction)
 - NLP applications in environmental conservation
+
+It helps me to keep tabs on what I've learned, so I'll be regularly updating [this document](https://docs.google.com/document/d/1qGlzCzM-QBGoyVGZ4Ba3ks-0LMk9MznQGT8e-xlIkaY/edit?tab=t.0) with new information :)
