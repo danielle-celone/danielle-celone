@@ -6,7 +6,9 @@ These days, I'm learning about:
 - Hugging Face transformers
 
 Recently, I've learned about:
-- Hidden Markov models
+- Hidden Markov models/Viterbi algorithm
+- Word embeddings
+- The theory behind attention & transformer models
 
 In the future, I'd like to learn more about:
 - audio processing
